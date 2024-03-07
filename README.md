@@ -19,7 +19,6 @@
 </p>
 
 ## &#x1F4CC; Index 
-- [Index](#-index)
 - [What is pipex?](#-what-is-pipex)
 - [Logic](#-logic)
 - [Usage](#-usage)

@@ -100,21 +100,9 @@ The arguments of the executable should be:
 ./pipex infile cmd1 cmd2 cmd3 ... outfile
 ```
 
-Execute whith the arguments in the terminal.
+Execute in the terminal something like:
 
-```bash
-./philo 4 310 200 100
-```
+<img width="678" alt="Screen Shot 2024-03-07 at 6 35 55 PM" src="https://github.com/vcereced/pipex/assets/120835200/f9aeb2a6-148a-4c4b-b817-17f7d565099b">
 
-Should one philosopher die. Output should be:
 
-<img width="377" alt="Screen Shot 2024-03-07 at 5 37 21 PM" src="https://github.com/vcereced/philosopher/assets/120835200/c7a4e095-354e-4788-a005-05f01977d02d">
 
-Execute the bonus whith the arguments in the terminal.
-
-```bash
-./philo_bonus 4 410 200 100 1
-```
- Output should be:
-
- <img width="377" alt="Screen Shot 2024-03-07 at 5 42 35 PM" src="https://github.com/vcereced/philosopher/assets/120835200/a22b1c3d-adcd-4d59-a1c1-faf567a40e12">

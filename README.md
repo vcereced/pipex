@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/C-4682B4">
   <img src="https://img.shields.io/badge/Shell-2E8B57">
   <img src="https://img.shields.io/badge/Gcc-00FF00">
+  <img src="https://img.shields.io/badge/Unix-4682B4">
   
 </p>
 

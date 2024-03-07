@@ -19,11 +19,11 @@
 </p>
 
 ## &#x1F4CC; Index 
-- [📌 Index](#-index)
-- [✨ What is pipex?](#-what-is-pipex)
-- [🛠 Logic](#-logic)
-- [💻 Usage](#-usage)
-- [📖 Examples](#-examples)
+- [Index](#-index)
+- [What is pipex?](#-what-is-pipex)
+- [Logic](#-logic)
+- [Usage](#-usage)
+- [Examples](#-examples)
 
 ## &#x2728; What is pipex?
 
